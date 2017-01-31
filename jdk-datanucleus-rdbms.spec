@@ -1,6 +1,6 @@
 Name     : jdk-datanucleus-rdbms
 Version  : 3.2.9
-Release  : 4
+Release  : 5
 URL      : https://repo1.maven.org/maven2/org/datanucleus/datanucleus-rdbms/3.2.9/datanucleus-rdbms-3.2.9.jar
 Source0  : https://repo1.maven.org/maven2/org/datanucleus/datanucleus-rdbms/3.2.9/datanucleus-rdbms-3.2.9.jar
 Source1  : https://repo1.maven.org/maven2/org/datanucleus/datanucleus-rdbms/3.2.9/datanucleus-rdbms-3.2.9.pom
